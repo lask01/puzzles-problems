@@ -2,6 +2,12 @@
 """
 @author: lask01
 """
+def problem_statement():
+    """
+    By considering the terms in the Fibonacci sequence whose values do not
+    exceed 4 million, find the sum of the even-valued terms.
+    """
+    pass
 
 def dynamic_programming_solution(max_value):
     """
